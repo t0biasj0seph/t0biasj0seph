@@ -11,5 +11,10 @@ Today my focus will about defining what I want in my next position. Defining thi
 * hold weekly status meetings with key clients with features in house
 * scheduling tasks/projects for the engineers
 * plan software releases and develop informational materials for customers about each release
+* execute all customer training
 
-What that it?
+Was that it?
+
+
+Ending notes:
+>I've wanted to start a blog for almost a year and I'm dissapointed I just did it. Using Markdown is an incredibily easy way to write. I've missed programming a lot and I'm glad to be back at it. These blogs aren't an example of my best writing, but a place for me to clear my thoughts and document my current journey. 
