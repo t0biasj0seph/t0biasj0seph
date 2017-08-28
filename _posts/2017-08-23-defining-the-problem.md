@@ -16,5 +16,7 @@ Today my focus will about defining what I want in my next position. Defining thi
 Was that it?
 
 
+
+
 Ending notes:
->I've wanted to start a blog for almost a year and I'm dissapointed I just did it. Using Markdown is an incredibily easy way to write. I've missed programming a lot and I'm glad to be back at it. These blogs aren't an example of my best writing, but a place for me to clear my thoughts and document my current journey. 
+>I've wanted to start a blog for almost a year and I'm dissapointed I just did it. Using Markdown is an incredibily easy way to write. I've missed programming a lot and I'm glad to be back at it. These blogs aren't an example of my best writing, but a place for me to clear my thoughts and document my current journey.
