@@ -50,3 +50,12 @@ ul.posts li {
 tr:nth-child(even) {
   background-color: #f2f2f2
 }
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
+table {
+  width: 100%;
+}
