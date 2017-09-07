@@ -62,7 +62,7 @@ table {
 
 div.background-img {
   background: url(../images/cloud7.png);
-  max-width: 100%; height: auto
+  max-width: 70%; height: auto
   opacity: 0.3;
   border: 2px;
 }
