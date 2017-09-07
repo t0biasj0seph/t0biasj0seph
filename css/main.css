@@ -1,8 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-  /*  background-image: image(); */
-    border-color: #008292;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -36,7 +34,7 @@ ul,li {
     color: #333;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 3px solid #008292;
     font-size: .8em;
 }
 
