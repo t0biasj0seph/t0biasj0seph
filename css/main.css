@@ -61,7 +61,10 @@ table {
 }
 
 div.cloud {
+  max-width: 100%; height: auto;
+}
+div.cloud:after {
   background-image: url(../images/cloud7.png);
   max-width: 100%; height: auto;
-  background:rgba(100,100,100,0.3);
+  opacity: 0.3;
 }
