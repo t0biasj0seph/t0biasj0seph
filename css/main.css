@@ -59,12 +59,11 @@ th, td {
 table {
   width: 100%;
 }
-
+/*
 div.cloud {
   background-image: url(../images/cloud7.png);
   max-width: 100%; height: auto;
   opacity: 0.3;
-}
+}*/
 div.inside-cloud {
   opacity: 1;
-}
