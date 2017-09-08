@@ -1,19 +1,8 @@
 ---
 layout: post
-title: "A Conglomerate"
-date: 2017-08-27
+title: "Welcome to September"
+date: 2017-09-08
 ---
 
-I really wanted to blog everyday. I thought I'd be able to do it. I made it 2.5 days. You would assume three, but I know I didn't truly finish that third day's blog and that I wanted to write a second post that day. I love writing, I just let the little things get in the way. Anyways, this is me pushing through.
-
-OH MY GOODNESS. I JUST DID THE STRENGTHFINDERS2.0 ASSESSMENT AND I AM SO EXCITED AND ENERGIZED. The assessment basically told me I was born to be a workaholic, just what I've always wanted to be told. Work gives me great purpose. It's the reason why I want to own my own company someday, or start a non-profit, or become a leader in a reptuable organization. I believe our brains are these wonderful things we're provided with and we should use them to do better and change the world. Work hard, play hard, enjoy life, believe in people, do.kick.ass.things.
-
-Here's my strengths. I'm going to list them and go over how they make me feel.
-
-1. Futuristic
-2. Achiever
-3. Arranger
-4. Activator
-5. Belief
-
-In general, the results excite me. I am in a transition period in my life and my career, and these insights give me validation for my recent actions and current directives. I love to work hard and I love to give my all. I cannot wait to be doing just that. 
+I have a lot on my mind today. First off, I have some ideas developing I'd like to write down: I like the
+term technology stack, I want to create an app or initiative that helps prevent suicide, I still want to create an app that shames distracted drivers. Since moving to Tennessee I've seen people FACETIMING and driving - wtf. Why are we so needy that we can't let ourselves do one thing at a time? When did we become such an impatient society. Oh! Lastly - I want to see if I can style this site using SCSS. I haven't done enough research to figure that out yet and I know I first need to "convert" my whole site to using Markdown because I forgot/got lazy and started using basic HTML, but yeah. I have another idea linguring in my head this week but it doesn't seem to want to surface right now. Other things.. I took a one week hiatus from programming and blogging last week. I spent the time cleaning, organizing and cooking and I did it because I was dealing with some shit. Since then I've been better than ever. Did you see?! I programmed four hours yesterday AND we bought the couch of our dreams. Don't laugh, we're learning not to go into debt for anything, so buying a new sleeper/sectional and rug for our fancy apartment was a big deal. Next is paying off the truck and buying me a Porsche, cash. I want the 911 turbo, but we'll have to see. I might want to get a job first, but what can I say - I'm a dreamer so it's just what I do. Hmm! I might have just remembered the other idea I had - I think I may have found a topic I'd like to start a YouTube channel about: Goal Setting. I've learned that not everyone can set goals as easy as I can. I think of something I want, break it into executable pieces, and go for it in minutes. Others get stuck on the logistics/specifics of the goal itself or don't know how to chop it into bite size pieces. It's all easy for me, so I'd like to shed some light and see if I can help others. I think it also ties into my suicide prevention thing. I think if people set more goals and felt as if they were working towards them they might be happier. //End rant
