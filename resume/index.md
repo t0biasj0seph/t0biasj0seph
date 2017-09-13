@@ -5,7 +5,7 @@ title: Tobi Jo Schermuly's Resume
 <pre><b><div style="text-align:center;">
 TOBI JO SCHERMULY
 
-Franklin, TN |tobi.schermuly@gmail.com | 602-826-5970 | linkedin.com/in/tobijoschermuly
+Franklin, TN | tobi.schermuly@gmail.com | linkedin.com/in/tobijoschermuly
 
 BUSINESS | CUSTOMER EXPERIENCE | ENGINEERING
 </div></b></pre>
@@ -22,7 +22,7 @@ Driven self-starter with experience working in a startup environment. Proven tra
 * Distributed Teams
 * Enterprise Software / SaaS / B2B
 
-PROFESSIONAL EXPERIENCE
+<pre><b><div style="text-align:center;">PROFESSIONAL EXPERIENCE</div></b></pre>
 
 TRACORP, INC., Glendale, AZ (www.tracorp.com)	2008 - 2017
 
@@ -78,7 +78,7 @@ Programming & QA Intern, 2010 - 2012
 
 Utilized open source systems to keep software costs down. Managed software upgrades to open source systems. Deployed development releases.
 
-EDUCATION | COLLEGIATE EXPERIENCE
+<pre><b><div style="text-align:center;">EDUCATION | COLLEGIATE EXPERIENCE</div></b></pre>
 
 Bachelors of Interdisciplinary Studies, Business; Film, Arizona State University - Tempe, AZ
 
