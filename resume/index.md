@@ -24,11 +24,11 @@ Driven self-starter with experience working in a startup environment. Proven tra
 
 <pre><b><div style="text-align:center;">PROFESSIONAL EXPERIENCE</div></b></pre>
 
-TRACORP, INC., Glendale, AZ (www.tracorp.com)	|        |        |      |      | 2008 - 2017
+<pre><b>TRACORP, INC., Glendale, AZ (www.tracorp.com)	2008 - 2017</b></pre>
 
 A technology and training organization doing business with most major industries including government and military organizations. The TraCorp Learning Management System (LMS) launches and tracks training for 150,000+ monthly users worldwide.
 
-Product Manager, 2016 – 2017
+<pre><b>Product Manager, 2016 – 2017</b></pre>
 
 Articulated product vision and led development with cross-functional teams through strategic product planning, effective communication, user research and Agile / Scrum best practices. Fostered new feature ideation with engineering team, design team, customers and stakeholders to solve problems. Built strategies to drive product quality and success.
 
@@ -54,7 +54,7 @@ Articulated product vision and led development with cross-functional teams throu
 * Used market research to make recommendations on product improvements including user interface, pricing, and service offerings.
 * Hands-on, intuitive approach to customer experience allowed assistance with sales support to pinpoint needs within product line.
 
-Project Coordinator, 2016
+<pre><b>Project Coordinator, 2016</b></pre>
 
 Tracked status of $330K+ revenue project with 30+ member remote / distributed team. Tracked status of 500+ deliverables. Distributed work efforts to available resources.
 
@@ -62,7 +62,7 @@ Tracked status of $330K+ revenue project with 30+ member remote / distributed te
 * Facilitated internal and external bi-weekly status meetings; calendar invites, meeting notes and action items for all in attendance. Maintained and increased project flow with fewer interruptions.
 * Utilized Sharepoint / Wiki to distribute production documents while restricting access to proper resources.
 
-Full Stack Web Developer Intern, 2013 - 2015
+<pre><b>Full Stack Web Developer Intern, 2013 - 2015</b></pre>
 
 Worked with senior developers to develop initial version of a product rebuild. Designed prototypes based on technical specification.
 
@@ -74,14 +74,14 @@ Worked with senior developers to develop initial version of a product rebuild. D
 * Leveraged wireframing and sketches to create interface design, prevented rework in development.
 * Learned Zend Framework 2 to develop front-end and back-end of platform.
 
-Programming & QA Intern, 2010 - 2012
+<pre><b>Programming & QA Intern, 2010 - 2012</b></pre>
 
 Utilized open source systems to keep software costs down. Managed software upgrades to open source systems. Deployed development releases.
 
 <pre><b><div style="text-align:center;">EDUCATION | COLLEGIATE EXPERIENCE</div></b></pre>
 
-Bachelors of Interdisciplinary Studies, Business; Film, Arizona State University - Tempe, AZ
+<pre><b>Bachelors of Interdisciplinary Studies, Business; Film, Arizona State University - Tempe, AZ</b></pre>
 
-Theta Tau Co-Ed Engineering Fraternity
+<pre><b>Theta Tau Co-Ed Engineering Fraternity</b></pre>
 
 Professional Development Chair | Fundraising Chair | Health Chair
