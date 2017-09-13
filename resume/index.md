@@ -2,7 +2,7 @@
 layout: default
 title: Tobi Jo Schermuly's Resume
 ---
-<pre><b>
+<pre><b style="text-align:center">
 TOBI JO SCHERMULY
 
 Franklin, TN |tobi.schermuly@gmail.com | 602-826-5970 | linkedin.com/in/tobijoschermuly
