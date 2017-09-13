@@ -24,7 +24,7 @@ Driven self-starter with experience working in a startup environment. Proven tra
 
 <pre><b><div style="text-align:center;">PROFESSIONAL EXPERIENCE</div></b></pre>
 
-<pre><b>TRACORP, INC., Glendale, AZ (www.tracorp.com)	2008 - 2017</b></pre>
+<pre><b>TRACORP, INC., Glendale, AZ (www.tracorp.com)	|          |          |          |          | 2008 - 2017</b></pre>
 
 A technology and training organization doing business with most major industries including government and military organizations. The TraCorp Learning Management System (LMS) launches and tracks training for 150,000+ monthly users worldwide.
 
@@ -80,7 +80,7 @@ Utilized open source systems to keep software costs down. Managed software upgra
 
 <pre><b><div style="text-align:center;">EDUCATION | COLLEGIATE EXPERIENCE</div></b></pre>
 
-<pre><b>Bachelors of Interdisciplinary Studies, Business; Film, Arizona State University - Tempe, AZ</b></pre>
+<pre><b>Bachelors of Interdisciplinary Studies, Business; Film</b></pre>, Arizona State University - Tempe, AZ
 
 <pre><b>Theta Tau Co-Ed Engineering Fraternity</b></pre>
 
