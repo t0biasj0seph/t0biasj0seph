@@ -2,13 +2,13 @@
 layout: default
 title: Tobi Jo Schermuly's Resume
 ---
-<pre><b><div style="text-align:center;">
+<pre style="text-align:center;"><b>
 TOBI JO SCHERMULY
 
 Franklin, TN | tobi.schermuly@gmail.com | linkedin.com/in/tobijoschermuly
 
 BUSINESS | CUSTOMER EXPERIENCE | ENGINEERING
-</div></b></pre>
+</b></pre>
 Driven self-starter with experience working in a startup environment. Proven track record of leadership, collaboration and solving problems. Passionate about leading products, teams and organizations.
 
 * Product Strategy
@@ -22,9 +22,9 @@ Driven self-starter with experience working in a startup environment. Proven tra
 * Distributed Teams
 * Enterprise Software / SaaS / B2B
 
-<pre><b><div style="text-align:center;">PROFESSIONAL EXPERIENCE</div></b></pre>
+<pre style="text-align:center;"><b>PROFESSIONAL EXPERIENCE</b></pre>
 
-<pre style="text-align:left;"><b>TRACORP, INC.</b></pre>, Glendale, AZ (www.tracorp.com)<pre style="text-align:right;"><b>2008 - 2017</b></pre>
+<pre style="text-align:left;"><b>TRACORP, INC.</b>, Glendale, AZ (www.tracorp.com)</pre><pre style="text-align:right;"><b>2008 - 2017</b></pre>
 
 A technology and training organization doing business with most major industries including government and military organizations. The TraCorp Learning Management System (LMS) launches and tracks training for 150,000+ monthly users worldwide.
 
@@ -78,10 +78,10 @@ Worked with senior developers to develop initial version of a product rebuild. D
 
 Utilized open source systems to keep software costs down. Managed software upgrades to open source systems. Deployed development releases.
 
-<pre><b><div style="text-align:center;">EDUCATION | COLLEGIATE EXPERIENCE</div></b></pre>
+<pre style="text-align:center;"><b>EDUCATION | COLLEGIATE EXPERIENCE</b></pre>
 
-<pre><b>Bachelors of Interdisciplinary Studies, Business; Film</b></pre>, Arizona State University - Tempe, AZ
+<pre><b>Bachelors of Interdisciplinary Studies, Business; Film</b>, Arizona State University - Tempe, AZ
 
-<pre><b>Theta Tau Co-Ed Engineering Fraternity</b></pre>
+<b>Theta Tau Co-Ed Engineering Fraternity</b></pre>
 
 Professional Development Chair | Fundraising Chair | Health Chair
