@@ -5,7 +5,7 @@ title: Tobi Jo Schermuly's Resume
 <pre style="text-align:center;"><b>
 TOBI JO SCHERMULY
 
-Franklin, TN | tobi.schermuly@gmail.com | linkedin.com/in/tobijoschermuly
+Franklin, TN | <a href="mailto:tobi.schermuly@gmail.com">tobi.schermuly@gmail.com</a> | <a href="http://linkedin.com/in/tobijoschermuly" target="'\_'blank">LinkedIn</a>
 
 BUSINESS | CUSTOMER EXPERIENCE | ENGINEERING
 </b></pre>
@@ -24,7 +24,7 @@ Driven self-starter with experience working in a startup environment. Proven tra
 
 <pre style="text-align:center;"><b>PROFESSIONAL EXPERIENCE</b></pre>
 
-<pre style="text-align:left;"><b>TRACORP, INC.</b>, Glendale, AZ (<a href="http://www.tracorp.com" target="'\_'blank">www.tracorp.com></pre></a>)<b>2008 - 2017</b></pre>
+<pre style="text-align:left;"><b>TRACORP, INC.</b>, Glendale, AZ (<a href="http://www.tracorp.com" target="'\_'blank">www.tracorp.com</a>)<b>2008 - 2017</b></pre>
 
 A technology and training organization doing business with most major industries including government and military organizations. The TraCorp Learning Management System (LMS) launches and tracks training for 150,000+ monthly users worldwide.
 
