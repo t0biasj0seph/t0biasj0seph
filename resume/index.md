@@ -2,12 +2,13 @@
 layout: default
 title: Tobi Jo Schermuly's Resume
 ---
+<pre><b>
 TOBI JO SCHERMULY
 
 Franklin, TN |tobi.schermuly@gmail.com | 602-826-5970 | linkedin.com/in/tobijoschermuly
 
 BUSINESS | CUSTOMER EXPERIENCE | ENGINEERING
-
+</b></pre>
 Driven self-starter with experience working in a startup environment. Proven track record of leadership, collaboration and solving problems. Passionate about leading products, teams and organizations.
 
 * Product Strategy
