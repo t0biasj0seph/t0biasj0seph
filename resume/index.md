@@ -5,7 +5,7 @@ title: Tobi Jo Schermuly's Resume
 <pre style="text-align:center;"><b>
 TOBI JO SCHERMULY
 
-Franklin, TN | <a href="mailto:tobi.schermuly@gmail.com">tobi.schermuly@gmail.com</a> | <a href="http://linkedin.com/in/tobijoschermuly" target="'\_'blank">LinkedIn</a>
+Franklin, TN | <a href="mailto:tobi.schermuly@gmail.com">tobi.schermuly@gmail.com</a> | <a href="http://linkedin.com/in/tobijoschermuly" target="'\_'blank">linkedin.com/in/tobijoschermuly</a>
 
 BUSINESS | CUSTOMER EXPERIENCE | ENGINEERING
 </b></pre>
