@@ -24,7 +24,8 @@ Driven self-starter with experience working in a startup environment. Proven tra
 
 <pre><b><div style="text-align:center;">PROFESSIONAL EXPERIENCE</div></b></pre>
 
-<pre><b>TRACORP, INC., Glendale, AZ (www.tracorp.com)	|          |          |          |          | 2008 - 2017</b></pre>
+<pre><b><div style="text-align:left;">TRACORP, INC., Glendale, AZ (www.tracorp.com)</div>
+<div style="text-align:right;">2008 - 2017</div></b></pre>
 
 A technology and training organization doing business with most major industries including government and military organizations. The TraCorp Learning Management System (LMS) launches and tracks training for 150,000+ monthly users worldwide.
 
